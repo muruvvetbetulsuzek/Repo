@@ -49,4 +49,4 @@ dll.update(20, 25)
 dll.display()
 dll.update(99, 100)
 
-print("Github Desktop")
+print("Akademik Yapay Zeka")
